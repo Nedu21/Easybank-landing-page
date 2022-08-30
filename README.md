@@ -25,7 +25,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution URL](https://github.com/Nedu21/Easybank-landing-page)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [live site URL](https://easy-bank-landing-page-v01.netlify.app/)
 
 ### Built with
 
@@ -38,10 +38,6 @@ Users should be able to:
 ### What I learned
 
 I learnt how to create a modal window with javascript😄.
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
 
 ## Author
 
