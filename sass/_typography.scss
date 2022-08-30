@@ -1,0 +1,42 @@
+.primary--btn {
+  background-image: linear-gradient(
+    to left,
+    $color-Bright-Cyan,
+    $color-Lime-Green
+  );
+  color: $color-Very-Light-Gray;
+  cursor: pointer;
+  font-weight: 700;
+  padding: 1rem 2.5rem;
+  border-radius: 40px;
+  border: none;
+
+  &:hover {
+    background-image: linear-gradient(
+      to left,
+      $color-Bright-Cyan-light,
+      $color-Lime-Green-light
+    );
+  }
+}
+
+h1 {
+  color: $color-Dark-Blue;
+  font-weight: 400;
+  font-size: 6rem;
+}
+
+h2 {
+  color: $color-Dark-Blue;
+  font-weight: 300;
+  font-size: 4rem;
+}
+
+h3 {
+  color: $color-Dark-Blue;
+  font-weight: 300;
+}
+
+p {
+  line-height: 1.5;
+}

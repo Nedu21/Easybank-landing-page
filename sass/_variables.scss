@@ -1,0 +1,26 @@
+// PRIMARY COLORS
+$color-Dark-Blue: #2d314d;
+$color-Lime-Green: #31d35c;
+$color-Bright-Cyan: #2bb7da;
+
+// PRIMARY COLORS GRADIENT
+$color-Lime-Green-light: rgba(49, 211, 92, 0.65);
+$color-Bright-Cyan-light: rgba(43, 183, 218, 0.65);
+
+// NEUTRAL COLORS
+$color-Grayish-Blue: #9698a6;
+$color-Light-Grayish-Blue: #f3f4f6;
+$color-Very-Light-Gray: #fafafa;
+$color-White: #ffffff;
+
+// FONT VARIABLES
+$font-primary: "Public Sans", sans-serif;
+
+// RESPONSIVE BREAKPOINTS
+$bp-largest: 68.75em; // 1100px
+$bp-large: 62.5em; // 1000px
+$bp-medium: 56.25em; // 900px
+$bp-small: 50em; // 800px
+$bp-smallest: 43.75em; // 700px
+$bp-mobile: 37.5em; // 600px
+$bp-mobile-small: 31.25em; // 500px
