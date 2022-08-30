@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Nedu21/Easybank-landing-page)
+- Solution URL: [solution URL](https://github.com/Nedu21/Easybank-landing-page)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ### Built with
